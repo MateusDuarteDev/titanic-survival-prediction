@@ -14,10 +14,6 @@ titanic-survival-prediction/
 ├── titanic_v01.ipynb
 ├── README.md
 
-markdown
-Copiar
-Editar
-
 ## ✅ Etapas executadas
 
 1. **Importação das bibliotecas**
@@ -45,4 +41,4 @@ Link para o desafio: [Titanic - Kaggle Competition](https://www.kaggle.com/compe
 ---
 
 **Desenvolvido por Mateus**  
-Este é o primeiro projeto publicado no meu portfólio de Ciência de Dados 🚀
+Este é o primeiro projeto publicado no meu portfólio de Ciência de Dados.
